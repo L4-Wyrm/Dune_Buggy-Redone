@@ -1,6 +1,6 @@
 # Dune Buggy Redone
 
-![Logo](http://rus-servers.3dn.ru/private/ARK_LOGO_FENS_SRC.png "Logo")
+![Logo](https://raw.githubusercontent.com/L4-Wyrm/VDBuggy/master/ARK_VDUNEBUGGY_SRC.png "Logo")
 
 Source code of Dune Buggy Redone
 
