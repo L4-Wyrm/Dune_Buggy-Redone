@@ -11,4 +11,4 @@ This is full source code of Dune Buggy Redone
 Feel free to use any assets of this modification, also don't forget credit me as original author!
 
 ## Licence
-Licenced under MIT License
+Licenced under CC BY-NC 4.0
