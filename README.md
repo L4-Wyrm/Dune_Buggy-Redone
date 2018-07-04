@@ -7,8 +7,8 @@ Source code of Dune Buggy Redone
 ## Description
 This is full source code of Dune Buggy Redone
 
-## Redistribution
+### Redistribution
 Feel free to use any assets of this modification, also don't forget credit me as original author!
 
-## Licence
-Licenced under CC BY-NC 4.0
+#### License
+Licensed under [CC BY-NC 4.0](https://github.com/L4-Wyrm/VDBuggy/blob/master/LICENSE)
