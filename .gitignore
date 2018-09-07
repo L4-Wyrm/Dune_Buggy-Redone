@@ -60,3 +60,6 @@ Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Dune Buggy source files
+Vehicles/VH_Buggy/Materials/src/*
