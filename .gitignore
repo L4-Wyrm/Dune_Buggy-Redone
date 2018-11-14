@@ -63,3 +63,17 @@ DerivedDataCache/*
 
 # Dune Buggy source files
 Vehicles/VH_Buggy/Materials/src/*
+
+# Source files
+
+# Folders
+src/
+
+# File extensions
+*.tga
+*.png
+*.fbx
+
+# Files
+desktop.ini
+Thumbs.db
