@@ -64,6 +64,15 @@ DerivedDataCache/*
 # Dune Buggy source files
 Vehicles/VH_Buggy/Materials/src/*
 
+VDBuggy/Vehicles/VH_Buggy/Blueprint/Obsolute/VH_Buggy_VDB.uasset
+
+VDBuggy/Vehicles/VH_Buggy2/Blueprint/Obsolute/VH_Buggy2_VDB.uasset
+
+VDBuggy/Vehicles/VH_Buggy2Alt1/Blueprint/Obsolute/VH_Buggy2Alt1_VDB.uasset
+
+VDBuggy/Vehicles/VH_BuggyAlt1/Blueprint/Obsolute/VH_BuggyAlt1_VDB.uasset
+
+
 # Source files
 
 # Folders
