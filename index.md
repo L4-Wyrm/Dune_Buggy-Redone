@@ -4,7 +4,7 @@
 
 ![Description](https://raw.githubusercontent.com/L4-Wyrm/Dune_Buggy-Redone/gh-pages/Images/Text/VDBuggy_description.png "Description")
 
-*   This is full source code of Dune Buggy Redone
+*   ![Description](https://raw.githubusercontent.com/L4-Wyrm/Dune_Buggy-Redone/gh-pages/Images/Text/VDBuggy_description_text.png "Description")
 
 
 Installation
