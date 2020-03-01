@@ -53,8 +53,9 @@
         <div id="title">
 <!--		  <h1>{{ site.title | default: site.github.repository_name }}</h1> -->
 		  <h1><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=694194698"><img src="https://raw.githubusercontent.com/L4-Wyrm/Dune_Buggy-Redone/gh-pages/Images/Text/VDBuggy_VDBuggy.png"></a></h1>
-          <p>{{ site.description | default: site.github.project_tagline }}</p>
-          <hr>
+ <!--         <p>{{ site.description | default: site.github.project_tagline }}</p> -->
+          <p>{{ default: site.github.project_tagline }}</p>
+		  <hr>
  <!--         <span class="credits left">Project maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></span> -->
           <span class="credits right">Hosted on GitHub Pages &mdash; Theme by <a href="https://twitter.com/mattgraham">mattgraham</a> modified by L4-Wyrm</span>
 		  <span class="credits left">Project maintained by L4-Wyrm</span>
