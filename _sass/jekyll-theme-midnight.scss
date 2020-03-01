@@ -8,11 +8,13 @@ body {
   font:14px/1.5 "OpenSansRegular", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#f0e7d5;
   font-weight: normal;
-  background-image: url('https://raw.githubusercontent.com/L4-Wyrm/VDBuggy/master/ARK_VDUNEBUGGY_SRC.png') #353535;
+  background-image: url('https://raw.githubusercontent.com/L4-Wyrm/VDBuggy/master/ARK_VDUNEBUGGY_SRC.png');
 /*/  background: #252525; */
   background-attachment: fixed !important;
 /*/  background: linear-gradient(#2a2a29, #1c1c1c); */
   background-size: 100% 100%;
+  background-color: #353535;
+  background-blend-mode: hard-light;
 }
 
 h1, h2, h3, h4, h5, h6 {
