@@ -4,16 +4,16 @@
 
 ![Description](https://raw.githubusercontent.com/L4-Wyrm/Dune_Buggy-Redone/gh-pages/Images/Text/VDBuggy_description.png "Description")
 
-*   ![Description](https://raw.githubusercontent.com/L4-Wyrm/Dune_Buggy-Redone/gh-pages/Images/Text/VDBuggy_description_text.png "Description")
+*   This is full source code of Fertilized Eggs Naturally Spawn
 
 
-Installation
+![Installation](https://raw.githubusercontent.com/L4-Wyrm/Dune_Buggy-Redone/gh-pages/Images/Text/VDBuggy_installation.png "Installation")
 *   Copy VDBuggy folder to "ARK Dev Kit root folder/Projects/ShooterGame/Content/Mods"
 
 
-Redistribution
+![Redistribution](https://raw.githubusercontent.com/L4-Wyrm/Dune_Buggy-Redone/gh-pages/Images/Text/VDBuggy_redistribution.png "Redistribution")
 *   Feel free to use any assets of this modification, as long as you credit me as original author!
 
 
-License
+![License](https://raw.githubusercontent.com/L4-Wyrm/Dune_Buggy-Redone/gh-pages/Images/Text/VDBuggy_license.png "License")
 *   Licensed under [![CC BY-NC 4.0](https://licensebuttons.net/l/by-nc/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc/4.0/)
