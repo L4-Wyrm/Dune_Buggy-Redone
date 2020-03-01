@@ -2,7 +2,7 @@
 
 ![Source code of Dune Buggy Redone](https://raw.githubusercontent.com/L4-Wyrm/Dune_Buggy-Redone/gh-pages/Images/Text/VDBuggy_src.png "Source code of Dune Buggy Redone")
 
-Description
+![Description](https://raw.githubusercontent.com/L4-Wyrm/Dune_Buggy-Redone/gh-pages/Images/Text/VDBuggy_description.png "Description")
 
 *   This is full source code of Dune Buggy Redone
 
