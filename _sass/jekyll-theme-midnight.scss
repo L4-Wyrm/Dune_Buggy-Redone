@@ -6,7 +6,7 @@ body {
   padding:0px 0 20px 0px;
   margin: 0px;
   font:14px/1.5 "OpenSansRegular", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color:#f0e7d5;
+  color: #ff0c00;
   font-weight: normal;
   background-image: url('https://raw.githubusercontent.com/L4-Wyrm/Dune_Buggy-Redone/gh-pages/Images/Background/ARK_BCKG_VDBUGGY_SRC.png');
 /*/  background: #252525; */
@@ -15,6 +15,7 @@ body {
   background-size: 100% 100%;
   background-color: #353535;
   background-blend-mode: hard-light;
+  text-shadow: 0px 1px 0px rgb(4, 4, 4);
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -259,7 +260,7 @@ section {
     }
 
     p {
-      color: #ec3030;
+	  color: #910404;
       font-family: 'OpenSansLight', "Helvetica Neue", Helvetica, Arial, sans-serif;
       font-weight: normal;
       font-size: 18px;
@@ -344,7 +345,7 @@ section {
       font-weight: normal;
       list-style: none;
       display: inline;
-	  color: #ec0000;
+	  color: #8f2b2b;
       line-height: 50px;
 	  text-shadow: 0px 1px 0px rgb(4, 4, 4);
       font-size: 14px;
